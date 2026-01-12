@@ -1,0 +1,162 @@
+
+.team-page {
+  padding-top: 70px; /* desktop header height */
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .cteam-page {
+    padding-top: 70px; /* mobile header height */
+  }
+}
+
+.team-page {
+  background: #f6fff9;
+  color: #2f2f2f;
+}
+
+/* ======================
+   HERO
+====================== */
+
+.team-hero {
+  background: linear-gradient(135deg, #00796b, #00bfa5);
+  padding: 90px 20px;
+  text-align: center;
+  color: white;
+}
+
+.team-hero h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 14px;
+}
+
+.team-hero p {
+  max-width: 720px;
+  margin: 0 auto;
+  font-size: 1.2rem;
+  opacity: 0.95;
+}
+
+/* ======================
+   TEAM SECTION
+====================== */
+
+.team-section {
+  padding: 90px 20px;
+  text-align: center;
+}
+
+.team-section h2 {
+  font-size: 2.3rem;
+  color: #00695c;
+  margin-bottom: 50px;
+}
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 28px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.team-card {
+  background: white;
+  border-radius: 18px;
+  padding: 26px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+  transition: all 0.35s ease;
+}
+
+.team-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 14px 36px rgba(0,150,136,0.25);
+}
+
+.team-card img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 16px;
+  border: 4px solid #e0f7f3;
+}
+
+.team-card h3 {
+  font-size: 1.3rem;
+  margin-bottom: 6px;
+  color: #004d40;
+}
+
+.team-card span {
+  display: block;
+  font-size: 0.95rem;
+  color: #00897b;
+  margin-bottom: 12px;
+  font-weight: 600;
+}
+
+.team-card p {
+  font-size: 0.95rem;
+  color: #555;
+}
+
+/* ======================
+   CULTURE SECTION
+====================== */
+
+.team-culture {
+  background: #eefaf1;
+  padding: 90px 20px;
+  text-align: center;
+}
+
+.team-culture h2 {
+  font-size: 2.3rem;
+  color: #00695c;
+  margin-bottom: 20px;
+}
+
+.team-culture p {
+  max-width: 720px;
+  margin: 0 auto 40px;
+  font-size: 1.1rem;
+  color: #555;
+}
+
+.culture-images {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.culture-images img {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 16px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease;
+}
+
+.culture-images img:hover {
+  transform: scale(1.05);
+}
+
+/* ======================
+   RESPONSIVE
+====================== */
+
+@media (max-width: 768px) {
+  .team-hero h1 {
+    font-size: 2.2rem;
+  }
+
+  .culture-images img {
+    width: 100%;
+    max-width: 340px;
+  }
+}

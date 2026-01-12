@@ -537,3 +537,16 @@
     scroll-snap-align: start; /* snap to start */
   }
 }
+
+
+/* Fix content hidden under fixed header */
+.about-container {
+  padding-top: 40px; /* header height */
+}
+
+/* Mobile view (header slightly taller) */
+@media (max-width: 768px) {
+  .about-container {
+    padding-top: 70px;
+  }
+}

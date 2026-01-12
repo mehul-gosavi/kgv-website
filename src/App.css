@@ -39,3 +39,20 @@
 body {
   padding-top: 240px; /* same as header height */
 }
+
+.app-wrapper {
+  padding-top: 70px; /* height of your header */
+}
+
+
+/* Offset content for fixed header */
+.page-offset {
+  padding-top: 80px; /* header height */
+}
+
+/* Slightly more space on mobile if header is taller */
+@media (max-width: 768px) {
+  .page-offset {
+    padding-top: 90px;
+  }
+}

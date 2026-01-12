@@ -9,6 +9,7 @@ import Header from "./components/header";
 import Footer from "./components/footer";
 import ProductDetail from "./components/ProductDetail";
 import ScrollToTop from "./components/ScrollToTop";
+import OurTeam from "./pages/OurTeam";
 function App() {
   return (
     <Router>
@@ -22,6 +23,10 @@ function App() {
         <Route path="/products/:id" element={<ProductDetail />} />
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />
+        
+
+        <Route path="/our-team" element={<OurTeam />} />
+
       </Routes>
 
       <Footer />

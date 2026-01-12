@@ -25,7 +25,11 @@ function Header() {
         <Link to="/" onClick={() => setIsOpen(false)}>Home</Link>
         <Link to="/products" onClick={() => setIsOpen(false)}>Products</Link>
         <Link to="/about" onClick={() => setIsOpen(false)}>About</Link>
+        <Link to="/our-team">Our Team</Link>
         <Link to="/contact" onClick={() => setIsOpen(false)}>Contact</Link>
+       
+        
+
       </nav>
     </header>
   );

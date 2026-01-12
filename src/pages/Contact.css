@@ -1,3 +1,21 @@
+/* =========================
+   FIX FIXED HEADER OVERLAP
+   (Contact Page ONLY)
+========================= */
+
+.contact-info-container {
+  padding-top: 70px; /* desktop header height */
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .contact-info-container {
+    padding-top: 70px; /* mobile header height */
+  }
+}
+
+
+
 /* 🌿 General Page Styling */
 .contact-info-container {
   font-family: "Poppins", sans-serif;
@@ -292,5 +310,41 @@
     word-wrap: break-word;
     overflow-wrap: break-word;
     hyphens: auto;
+  }
+}
+
+
+/* Fix content hidden under fixed header */
+.contact-container {
+  padding-top: 80px; /* height of header */
+}
+
+/* Mobile adjustment */
+@media (max-width: 768px) {
+  .contact-container {
+    padding-top: 100px;
+  }
+}
+
+/* Fix content hidden under fixed header */
+.contact-container {
+  padding-top: 80px; /* height of header */
+}
+
+/* Mobile adjustment */
+@media (max-width: 768px) {
+  .contact-container {
+    padding-top: 90px;
+  }
+}
+
+
+.page {
+  padding-top: 90px;
+}
+
+@media (max-width: 768px) {
+  .page {
+    padding-top: 100px;
   }
 }

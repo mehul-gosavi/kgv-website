@@ -25,7 +25,7 @@ function Footer() {
       <div className="footer-contact">
         <h4>Contact Us</h4>
         <p>Email: kgvhealthcare@gmail.com</p>
-        <p>Mobile : 7387471991</p>
+        <p>Mobile : 7387471991 ,9890031621, 8485814506</p>
 
       </div>
     </footer>

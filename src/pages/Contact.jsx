@@ -53,13 +53,14 @@ const Contact = () => {
     <div className="contact-card duplicate">
       <div className="icon">📞</div>
       <h3>Call Us</h3>
-      <p>+91 7387471991</p>
+      <p>7387471991, 9890031621, 8485814506</p>
+      
     </div>
 
     <div className="contact-card duplicate">
       <div className="icon">📧</div>
       <h3>Email Us</h3>
-      <p>kvghealthcare@gmail.com</p>
+      <p>kvghealthcare@ gmail.com</p>
     </div>
 
     <div className="contact-card duplicate">
