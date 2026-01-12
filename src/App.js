@@ -1,24 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
+import Home from "./pages/Home";
+import Products from "./pages/Products";
+import About from "./pages/About";
+import Contact from "./pages/Contact";
+
+import Header from "./components/header";
+import Footer from "./components/footer";
+import ProductDetail from "./components/ProductDetail";
+import ScrollToTop from "./components/ScrollToTop";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <ScrollToTop /> {/* 👈 THIS FIXES SCROLL ISSUE */}
+
+      <Header />
+
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/products" element={<Products />} />
+        <Route path="/products/:id" element={<ProductDetail />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/contact" element={<Contact />} />
+      </Routes>
+
+      <Footer />
+    </Router>
   );
 }
 

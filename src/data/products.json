@@ -1,0 +1,527 @@
+[
+  {
+    "id": 1,
+    "name": "Pro Grow",
+    "shortInfo": "Protein growth powder with vitamins and minerals",
+    "description": "A protein growth powder supplemented with vitamins and minerals to support poultry growth, immunity, and productivity.",
+    "image": "/images/products/progrow.png",
+    "category": "Feed Supplement",
+    "benefits": [
+      "Enhances growth and weight gain",
+      "Improves feed efficiency",
+      "Stronger immune system",
+      "Better egg production and quality",
+      "Reduces mortality rates"
+    ],
+    "contents": ["Proteins", "Vitamins", "Minerals"],
+    "howToUse": ["Mix with daily feed", "Use regularly as recommended"],
+    "availablePacking": ["100 gm", "250 gm", "500 gm", "1 kg"],
+    "caution": ["Do not overdose", "Store in a cool dry place"]
+  },
+
+  {
+    "id": 2,
+    "name": "KGV King Feed",
+    "shortInfo": "Feed for all kinds of cattle",
+    "description": "High quality, tasty, nutritious and urea-free cattle feed.",
+    "image": "/images/products/kingfeed.png",
+    "category": "Feed Supplement",
+    "benefits": ["Increases milk production", "Improves immunity", "Promotes growth"],
+    "contents": ["Calcium", "Phosphorus", "Zinc", "Copper"],
+    "howToUse": ["Add to feed daily"],
+    "availablePacking": ["5 kg", "10 kg", "25 kg"],
+    "caution": ["Avoid mixing with other mineral products"]
+  },
+
+  {
+    "id": 3,
+    "name": "Growth Enhancer",
+    "shortInfo": "Highly bio-natural growth booster",
+    "description": "Natural botanical extracts enriched with vitamins, minerals, amino acids and micro minerals.",
+    "image": "/images/products/growthenhancer.png",
+    "category": "Poultry Supplement",
+    "benefits": [
+      "Improves feed digestibility",
+      "Reduces diarrhea",
+      "Enhances immunity",
+      "Improves feed conversion ratio",
+      "Increases body weight and egg production"
+    ],
+    "contents": ["Vitamins", "Minerals", "Amino acids", "Botanical extracts"],
+    "howToUse": ["Mix with water or feed"],
+    "availablePacking": ["500 ml", "1 liter"],
+    "caution": ["Use only for poultry"]
+  },
+
+  {
+    "id": 4,
+    "name": "KG Min AD3",
+    "shortInfo": "Improves fertility, productivity and growth",
+    "description": "Fortified with bypass methionine, chelated minerals and essential vitamins.",
+    "image": "/images/products/kgminad3.png",
+    "category": "Feed Supplement",
+    "benefits": [
+      "Improves milk production",
+      "Enhances fertility",
+      "Supports healthy calves",
+      "Maintains overall health"
+    ],
+    "contents": [
+      "Amino acids",
+      "Vitamins A, D3, E, C, H",
+      "Protein",
+      "Bypass fat and protein",
+      "Herbal extracts"
+    ],
+    "howToUse": ["30 gm per cow or buffalo daily mixed with feed"],
+    "availablePacking": ["1 kg", "5 kg"],
+    "caution": ["Do not combine with other calcium products"]
+  },
+
+  {
+    "id": 5,
+    "name": "Fat Pro",
+    "shortInfo": "Improves milk yield and milk fat",
+    "description": "Specially formulated to enhance milk quantity and fat percentage.",
+    "image": "/images/products/fatpro.png",
+    "category": "Feed Supplement",
+    "benefits": ["Increased milk production", "Higher milk fat", "Better growth"],
+    "contents": [
+      "Protein",
+      "Bypass fat",
+      "Calcium",
+      "Phosphorus",
+      "Amino acids",
+      "Probiotics"
+    ],
+    "howToUse": ["Mix 1 kg in 100 kg feed concentrate"],
+    "availablePacking": ["1 kg", "5 kg"],
+    "caution": ["Not for human use"]
+  },
+
+  {
+    "id": 6,
+    "name": "KG Cal Gold",
+    "shortInfo": "Liquid calcium supplement for livestock",
+    "description": "Liquid feed supplement enriched with calcium, phosphorus and herbal extracts.",
+    "image": "/images/products/kgcalgold.png",
+    "category": "Liquid Feed Supplement",
+    "benefits": [
+      "Prevents calcium deficiency",
+      "Improves milk production",
+      "Supports bone health",
+      "Prevents milk fever"
+    ],
+    "contents": [
+      "Calcium",
+      "Phosphorus",
+      "Zinc",
+      "Vitamins A, D3, E, B12",
+      "Herbal extracts"
+    ],
+    "howToUse": [
+      "Cows and buffalo: 50 ml twice daily",
+      "Calves, sheep, goats: 20 ml twice daily"
+    ],
+    "availablePacking": ["500 ml", "1 liter"],
+    "caution": ["Follow recommended dosage"]
+  },
+
+  {
+    "id": 7,
+    "name": "Vetcal Gel",
+    "shortInfo": "Oral calcium gel with vitamins",
+    "description": "Highly absorbable oral calcium gel for faster recovery after calving.",
+    "image": "/images/products/vetcalgel.png",
+    "category": "Animal Feed Supplement",
+    "benefits": [
+      "Faster calcium absorption",
+      "Improves milk yield",
+      "Strengthens bones and muscles"
+    ],
+    "contents": ["Calcium", "Phosphorus", "Vitamin D3", "Vitamin B12"],
+    "howToUse": ["Administer orally before and after calving"],
+    "availablePacking": ["300 gm tube"],
+    "caution": ["Use as per veterinary guidance"]
+  },
+
+  {
+    "id": 8,
+    "name": "KG-H",
+    "shortInfo": "Vitamin H enriched mineral supplement",
+    "description": "Strengthens udder tissues, improves fertility and prevents hair loss.",
+    "image": "/images/products/kgh.png",
+    "category": "Animal Feed Supplement",
+    "benefits": [
+      "Prevents mastitis",
+      "Improves fertility",
+      "Strengthens udder tissues",
+      "Stops hair loss"
+    ],
+    "contents": [
+      "Vitamins A, D3, E, H, C",
+      "Zinc",
+      "Cobalt",
+      "Selenium"
+    ],
+    "howToUse": ["Use as per animal type and dosage chart"],
+    "availablePacking": ["500 ml", "1 liter"],
+    "caution": ["Consult veterinarian if required"]
+  },
+
+  {
+    "id": 9,
+    "name": "Liver Gain Tonic",
+    "shortInfo": "Liver protective growth tonic",
+    "description": "Protects liver from toxins and improves feed utilization.",
+    "image": "/images/products/livergain.png",
+    "category": "Feed Supplement",
+    "benefits": [
+      "Protects liver",
+      "Improves growth",
+      "Enhances milk and egg production"
+    ],
+    "contents": [
+      "Choline chloride",
+      "Vitamins B complex",
+      "Amino acids",
+      "Herbal extracts"
+    ],
+    "howToUse": ["Use as per species and age"],
+    "availablePacking": ["500 ml", "1 liter"],
+    "caution": ["Use as directed by veterinarian"]
+  },
+
+  {
+    "id": 10,
+    "name": "Spark Booster",
+    "shortInfo": "Energy boost formula",
+    "description": "Improves glucose availability and reduces metabolic stress.",
+    "image": "/images/products/sparkbooster.png",
+    "category": "Animal Feed Supplement",
+    "benefits": [
+      "Improves energy levels",
+      "Reduces ketosis",
+      "Enhances rumen fermentation"
+    ],
+    "contents": ["Gluconeogenic precursors", "Vitamins"],
+    "howToUse": ["Administer as per recommended schedule"],
+    "availablePacking": ["500 ml", "1 liter"],
+    "caution": ["Use under veterinary guidance"]
+  },
+
+  {
+    "id": 11,
+    "name": "Protein Pro",
+    "shortInfo": "Unique protein supplement",
+    "description": "Supports milk production, reduces stress and improves overall health.",
+    "image": "/images/products/proteinpro.png",
+    "category": "Animal Feed Supplement",
+    "benefits": [
+      "Increases milk production",
+      "Improves udder health",
+      "Reduces stress",
+      "Prevents ketosis"
+    ],
+    "contents": ["Protected protein", "Propylene glycol", "Biotin", "Minerals"],
+    "howToUse": ["Use as per dosage recommendations"],
+    "availablePacking": ["500 ml", "1 liter"],
+    "caution": ["Administer orally only"]
+  },
+
+  {
+    "id": 12,
+    "name": "Uterkeen Tonic",
+    "shortInfo": "Complete uterine health tonic",
+    "description": "Supports uterine involution and prevents retained placenta.",
+    "image": "/images/products/uterkeen.png",
+    "category": "Animal Feed Supplement",
+    "benefits": [
+      "Prevents retained placenta",
+      "Supports uterine recovery",
+      "Improves reproductive health"
+    ],
+    "contents": ["Minerals", "Vitamins", "Herbal extracts"],
+    "howToUse": ["Use after calving as directed"],
+    "availablePacking": ["500 ml", "1 liter"],
+    "caution": ["Not for human use"]
+  },
+
+  {
+    "id": 13,
+    "name": "Teet Care",
+    "shortInfo": "Protective enzyme formula",
+    "description": "Highly effective enzyme-based teat care supplement.",
+    "image": "/images/products/teetcare.png",
+    "category": "Animal Feed Supplement",
+    "benefits": ["Supports teat health"],
+    "contents": ["Vitamins", "Enzymes", "Minerals"],
+    "howToUse": ["Mix with jaggery or feed"],
+    "availablePacking": ["500 gm", "1 kg"],
+    "caution": ["Not for medicinal use"]
+  },
+
+  {
+    "id": 14,
+    "name": "Onion Saver",
+    "shortInfo": "Storage protection solution",
+    "description": "Prevents fungal and bacterial damage in stored produce.",
+    "image": "/images/products/onion.png",
+    "category": "Farming Products",
+    "benefits": [
+      "Prevents fungal growth",
+      "Extends shelf life",
+      "Reduces moisture damage"
+    ],
+    "contents": ["Botanical extracts", "Mineral dust"],
+    "howToUse": ["Apply during storage as dusting"],
+    "availablePacking": ["100 gm", "500 gm", "1 kg"],
+    "caution": ["Follow usage instructions"]
+  },
+
+  {
+    "id": 15,
+    "name": "Grow Silage",
+    "shortInfo": "Silage quality enhancer",
+    "description": "Improves fermentation, digestibility and feed quality.",
+    "image": "/images/products/growsilage.png",
+    "category": "Animal Feed Supplement",
+    "benefits": [
+      "Improves fermentation",
+      "Reduces spoilage",
+      "Enhances digestibility"
+    ],
+    "contents": ["Herbal extracts"],
+    "howToUse": ["Mix with silage as directed"],
+    "availablePacking": ["1 kg", "5 kg"],
+    "caution": ["Do not exceed recommended dose"]
+  },
+
+  {
+    "id": 16,
+    "name": "FlyOut +",
+    "shortInfo": "Fly larvae killer",
+    "description": "Kills all stages of fly larvae effectively.",
+    "image": "/images/products/flyout.png",
+    "category": "Farming Products",
+    "benefits": ["Kills flies", "Controls infestation"],
+    "contents": ["Neem oil", "Castor oil", "Organic carrier"],
+    "howToUse": ["Mix with sugar and sprinkle"],
+    "availablePacking": ["250 gm", "500 gm"],
+    "caution": ["Use gloves and mask"]
+  },
+
+  {
+    "id": 17,
+    "name": "Fly Growth Mask",
+    "shortInfo": "Reduces ammonia and odor",
+    "description": "Controls moisture, odor and bacterial load in poultry litter.",
+    "image": "/images/products/flygrowth.png",
+    "category": "Farming Products",
+    "benefits": [
+      "Reduces ammonia",
+      "Controls odor",
+      "Improves litter quality"
+    ],
+    "contents": ["Herbal oils"],
+    "howToUse": ["Sprinkle over litter as needed"],
+    "availablePacking": ["5 kg", "10 kg"],
+    "caution": ["Safe if mixed with feed accidentally"]
+  },
+
+  {
+    "id": 18,
+    "name": "Rat Out+",
+    "shortInfo": "Natural rodent repellent",
+    "description": "Safely repels rats without killing.",
+    "image": "/images/products/ratout.png",
+    "category": "Farming Products",
+    "benefits": ["Repels rodents", "Pet safe"],
+    "contents": ["Herbal extracts", "Essential oils"],
+    "howToUse": ["Spray in affected areas"],
+    "availablePacking": ["250 ml", "500 ml"],
+    "caution": ["Use carefully"]
+  },
+
+  {
+    "id": 19,
+    "name": "Everything Out",
+    "shortInfo": "Multi insect repellent",
+    "description": "Repels flies, bed bugs, ticks, mites and lizards.",
+    "image": "/images/products/everythingout.png",
+    "category": "Farming Products",
+    "benefits": ["Multi insect control"],
+    "contents": ["Eucalyptus oil", "Clove oil", "Citronella"],
+    "howToUse": ["Spray as required"],
+    "availablePacking": ["250 ml", "500 ml"],
+    "caution": ["Use carefully"]
+  },
+
+  {
+    "id": 20,
+    "name": "Mono- Calcium Phosphate (MCP)",
+    "shortInfo": "Mono- Calcium Phosphate (MCP) Micro encapsulated Monobasic calcium phosphate ",
+    "description": "Mono- Calcium Phosphate (MCP) Micro encapsulated Monobasic calcium phosphate (MCP) is enriched/ fortified with essential photo chemicals with enhance the absorption of calcium and phosphorus by increasing their availability. KGV MCP is a micro encapsulated. Monobasic calcium phosphate contains one molecule of water of hydration due to its micro encapsulation the deliquescents nature (More than the calculated amount of water may be present) is suppressed.Micro- encapsulated are a controlled release  form of active ingredients which could be dispersed into a few microns to several hundred microns via physical or chemical methods",
+    "image": "/images/products/mcp.jpeg",
+    "category": "Animal Feed Supplement",
+    "benefits": [" Higher absorption of calcium and phosphorus due to phytochemical", " Phytochemical such as vitamins increase the absorption of these elements in the body."," High biological availability"," It's mono calcuim phosphate content and high solubility ensure it's superior biological qualities."," Outstanding physical qualities provide for ease of handling and uniform dispersion in mixed feeds and minerals.","Helps to strengthen the bones and weight gain in livestock and poultry."],
+    "contents": ["The product MCP content 98.0% as unspecified assay and presence of organic phyto biochemical and herbs."],
+    
+    "availablePacking": ["25 kg", "50 kg"],
+    "caution": ["Store in cool and dry place"]
+  },
+
+  {
+    "id": 21,
+    "name": " Di-Calcium Phosphate (DCP)",
+    "shortInfo": "Dicalcium phospahte10x organic formulation being a high quality animal feed",
+    "description": "The KGV healthcare nano encapsulated Dicalcium phosphate 10 x organic analog formulation has a unique combination of organic and natural herbs which provides the extra health cure advantage along with phosphorus is beneficial in improvement of production parameters and disease prevention. The nano encapsulated Dicalcium phosphate 10x is having combination of 10 herbs and organic products which is shown to improve the absorption of phosphorus in the body of the animals and birds by 10 times, hence making this product same or better performer then simple Dicalcium phosphate available in open market..",
+    "image": "/images/products/dcp.png",
+    "category": "Animal Feed Supplement",
+    "benefits": ["Excellently boosting immune system", "Stronger bones and egg shells.","Rich golden colour of egg yolk and improve tastes","Increase over all egg quality and egg production","Circulatory and respiratory health","Stimulation of the digestive secretions of bile, mucus, saliva, and improvement of enzyme activities.","positive effects on growth and performance."],
+    "contents": ["Di-Calcium Phosphate (DCP)" ],
+    
+    "availablePacking": ["25 kg", "50 kg"],
+    "caution": ["Store in cool and dry place"]
+  },
+
+  {
+    "id": 22,
+    "name": "Tri-Calcium Phosphate (TCP)",
+    "shortInfo": "Tricalcium phosphate (TCP) feed grade in India is a mineral supplement",
+    "description": "Tricalcium phosphate (TCP) feed grade in India is a mineral supplement used in animal feed to provide essential calcium and phosphorus. It's a white, odorless powder derived from sources like rock phosphate. TCP is widely available from various manufacturers and suppliers across India, often packaged in bags of 25kg.",
+    "image": "/images/products/tcp.png",
+    "category": "Animal Feed Supplement",
+    "benefits": ["Source of calcium and Phosphorus", "Bone Growth", "Develop Health","Overall Animal Health"],
+    "contents": ["Tri-Calcium Phosphate (TCP)"],
+    
+    "availablePacking": ["25 kg", "50 kg"],
+    "caution": ["Store in cool and dry place"]
+  },
+
+  {
+    "id": 23,
+    "name": "Toxin Binder",
+    "shortInfo": "Brode spectrum mycotoxin absorbent suitable for all types of feed.",
+    "description": "Toxin Binder is a techno organic herbal, high affinity sorbent that binds mycotoxins found in feed  in this bound form the harmful toxins pass through the alimentary tarct of the bird or animal to be voided in the faeces. Protoxin thereby helps prevent the absorbtins of mycotoxins into the body and so protects the animal against their harmful,often fatal,effects. Toxin Binder is notabsorbed by the body  its action is purely local and is a direct effect of its physical and electrical properties. Toxin Binder traps Afloxtoxins as a result of the electrostatic attraction to aluminium ions when mixed with water. It has an enormous surfacearea so that it can act as a liner inside the intestine Electronic microscope pictures have shown the intestinal cells being covered by the suspension.The electrical properties of toxin binder make it absorb bacteria and toxins in the intestineso that they can be eliminated with the clay",
+    "image": "/images/products/toxinbinder.png",
+    "category": "Animal Feed Supplement",
+    "benefits": ["Has the ability  to bind wide range of mycotoxins", "Is a low cost / high return on investment","Has a low effective inclusion rate in feed","Rapidly and uniformly disperses in feed during mixing.","Has no binding affinity for vitamins, minerals, drugs, and other nutrients"],
+    "contents": ["Hydrated Sodium calcium Alumino Silicate", "mannanoligosacharide"," Activated charcoal","Antioxidants","Kaolin, Fungal inhibitors"],
+    "howToUse": ["Add to mixer with other ingredients and mix homogenously"],
+    "availablePacking": ["25 kg", "50 kg"],
+    "caution": ["Store in a cool dry place","Follow usage instructions"]
+  },
+
+  {
+    "id": 24,
+    "name": "DL-Methionine Feed Grade 99%",
+    "shortInfo": "DL-methionine is techno organic herbal",
+    "description": "DL-methionine is techno organic herbal,manufactured by chemical synthesis from petrochemical raw materials,and obtained a high quality product under the complete chemical reaction without any potential unreacted materials left. The manufacturing process is operated under the appropriate quality control system, which can guarantee the quality of DL-methionine.",
+    "image": "/images/products/dlmetionine.png",
+    "category": "Animal Feed Supplement",
+    "benefits": ["First limiting amino acid in poultry ", "High yeilding in cows"],
+    "contents": ["Methionine "],
+  
+    "availablePacking": ["25 kg/bag"],
+    "caution": ["Store in a cool , dry, ventilated warehouse. When storing large goods,you should install conductive balance equipment, and prevent the accumulation of static electricity charge."," Product should be prevented from solarization,humidity and rain."]
+  },
+
+  {
+    "id": 25,    
+    "name": "L-LYSINE HCL Feed Grade 98.5%",
+    "shortInfo": "L-Lysine Amino acid takes care of the development of the poultry",
+    "description": "L-Lysine Amino acid takes care of the development of the poultry, brings addition to its Item Specific Rotation Heavy ContentWater Contentquality enhance the poultry growth. Using L-Lysine on a regular basis in the poultry feed.the birds grows healthier and faster and the use of rude protein would be reduced by 3-4%.The most common type of lysin used commercially and used in the poultry feed is the 98% lysin mono-Hcl It is equivalent to 78.4% of lysine amino acid that can be absorbed by the birds.",
+    "image": "/images/products/lysine.png",
+    "category": "Vitamin Supplement",
+    "benefits": ["Quick recovery", "Reduces risk of recurrent herpes infection"],
+    "contents": ["L-LYSINE","HCL"],
+    
+    "availablePacking": ["25 kg/bag"],
+    "caution": ["Keep in dry and cool in unopened original packing."]
+  },
+
+  {
+    "id": 26,
+    "name": "L-Threonine Feed Grade 98.5%",
+    "shortInfo": "L-Threonine 98.5% is the highly purified product after fermentation.",
+    "description": "L-Threonine is an techno organic herbal, essential amino acid that is added to the diet of pigs and poultry in order to extactly match the balanced amino acid requirement of the animals. In practice , L-Threonine is the second limiting amino acid for pigs and the third for poultry. Even in the low protein diets with such balanced L-Threonine content, L-Threonine can optimize growth performance and decrease the excreation of nitrogen. It is cost effective and environment friendly",
+    "image": "/images/products/thoreonine.png",
+    "category": "Animal Feed Supplement",
+    "benefits": ["Optimize growth performance ","Decrease the excretion of nitrogen"],
+    "contents": ["L-Threonine"],
+    
+    "availablePacking": ["25 kg/bag"],
+    "caution": ["Keep in dry, cool, and shaded place"]
+  },
+
+  {
+    "id": 27,
+    "name": "Choline Chloride 60% Corn Cob",
+    "shortInfo": "Choline chloride is techno organic herbal,a kind of vitamin",
+    "description": "Choline chloride is techno organic herbal,a kind of vitamin, it is the essential  component of lecithin and is very important for the nutrition and growth of the animal. The young animals cannot synthesize choline chloride by itself,so they should absorb it through feedstuff",
+    "image": "/images/products/choline.png",
+    "category": "Animal Feed Supplement",
+    "benefits": [" To prevent the accumula on of fat in livers and kidneys and avoid its pathalogical changes","To enhance the health of animal and to improve its ability to anti-illness.","To increses the growth rate and laying rate of fowls and to increses the survival rate of baby pig.","To increase the growth and survival rate of fishes and promote its propagation.","To ensure the proper func oning of the nervous system of animal."],
+    "contents": ["Choline chloride"],
+    
+    "availablePacking": ["25-kg(55.1lb)or (11.3kg)poly-lined bags."],
+    "caution": ["Hygroscopic material,Keep dry in sealed bags, store below 120°F (50°c).Recommended storage temperature 50°-90°F(10°-32°c)"]
+  },
+
+  {
+    "id": 28,
+    "name": " Chlortetracycline 15% (CTC)",
+    "shortInfo": "This product is a tetracycline broad-spectrum antibiotics",
+    "description": " KGV Healthcare Chlortetracycline is a broad spectrum antimicrobial drug in the feed for prophylactic purpose.Chlortetracycline (CTC) can also promote the permeation and absorption of the nourish elements, stimulating hypophysis to produce hormone and adjusting appetites. It result in obvious growth promotion for poultry, livestock and so on, also greatly incresase FCR.",
+    "image": "/images/products/ctc.png",
+    "category": "Animal Feed Supplement",
+    "benefits": ["Antibiotics against Gram-positive and Gram Negative bacteria", "Improve the survival rate of  livestock","Improve egg production","Promote growth and development zhuo"],
+    "contents": ["Chlortetracycline"],
+    "howToUse": ["Mixed feed for per 1000kg feed, add 25-75gm to pig feed (4 Months old or less) and 20-50gm to chicken (10 weeks old or less). Calculation above is of the effective ingredients."],
+    "availablePacking": ["Standard exported packing or as requirement"],
+    "caution": ["Large doses of this product will cause gastro-intestinal flora. It is forbidden during laying period"]
+  },
+
+  {
+    "id": 29,
+    "name": "Multienzyme",
+    "shortInfo": "Multienzyme is an optimum blend of enzyme for improvement of digestibility of vegetable feeds for poultry.",
+    "description": "Multienzyme is an optimum blend of enzyme for improvement of digestibility of vegetable feeds for poultry. Multienzyme is specially suited for improved energy performance of feed that contain wheat bran, soya beans, corn, rapeseed, sunflower seed, peas, etc.Multienzyme is designed to aid normal digestion increasing the energy availability and to hydrolyses non-starch polysaccharide with the result of reduction in feed conversion ratio and increase in body weight. The reduction in FCR by 7-10% and increase of 100-150gm body weight after 4th-5th week.",
+    "image": "/images/products/multienzyme.png",
+    "category": "Poultry Supplement",
+    "benefits": ["Improved digestion","Increase Body Weight"],
+    "contents": ["Enzymes"],
+    "howToUse": ["The enzyme can be dose at a rate 400-500gms/ton of feed"],
+    "availablePacking": ["25 kg"],
+    "caution": ["Store in cool place"]
+  },
+
+  {
+    "id": 30,
+    "name": "Vitamin A",
+    "shortInfo": "Vitamin-A Palmiatate is insoluble in water soluble in water in facts oils and hydrgenated cartons.",
+    "description": "98.5% concetra on liquid Vitamin-A Palmiatate is insoluble in water soluble in water in facts oils and hydrgenated cartons.The solvent should not contain peroxides.The recommended usage level of vitamin A palmitate is 0.05% to 0.3%",
+    "image": "/images/products/vitaminA.png",
+    "category": "Animal Feed Supplement",
+    "benefits": ["Prevent from skeletal malformation, retarded growth, reproductive failure", "Ensure good growth,disease resistance & to improve fertility","Prevent vitamin A deficency disease like Wheezing, Sneezing, nostrils blocked with crusts, swollen eyes, loss of appetite,Diarrhea, Weight loss, slimy mouth, tail bobbing, dullness of feather color, listleness, depression."],
+    "contents": ["Vitamin A"],
+    
+    "availablePacking": ["1kg,5kg and 25Kg"],
+    "caution": ["Follow feeding guidelines"]
+  },
+  
+  {
+    "id": 31,
+    "name": "Vitamin E",
+    "shortInfo": "It treat crazy chicks disease, exudative diathesis & muscular dystrophy",
+    "description": "Vitamin E is vital for immunity & reproduction in poultry & cattle. For faster growth & proper bone formation in cattle.",
+    "image": "/images/products/vitaminE.png",
+    "category": "Animal Feed Supplement",
+    "benefits": ["It treat crazy chicks disease, exudative diathesis & muscular dystrophy", "To reduce incidence of ascites and sudden death syndrome in broilers","To reduce leg weakness syndrome in broiler.","To improve fertility, hatchability & egg production layers","Increase egg production, highly recommended for layers & breeders"],
+    "contents": ["Vitamin E"],
+    
+    "availablePacking": ["1kg,5kg and 25Kg"],
+    "caution": ["Follow feeding guidelines"]
+  }
+]
